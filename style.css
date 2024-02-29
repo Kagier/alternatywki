@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+    background-size: 90px 90px;
+    background-image: linear-gradient(90deg,rgba(38,38,38,.5) 1px,transparent 0),linear-gradient(180deg,rgba(38,38,38,.5) 1px,transparent 0);
+    --tw-bg-opacity: 1;
+    background-color: rgb(23 23 23/var(--tw-bg-opacity));
+    --tw-text-opacity: 1;
+    color: rgb(245 245 245/var(--tw-text-opacity));
+    
+    }
+    
+    html {
+    font-family: sans-serif;
+    text-align: center;
+    }
+    #Tosia {
+        height: 250;
+        weight: 300;
+        border-radius: 10%;
+    }
+    
+    h1{
+        color: white;
+    }
+    
+    h2 {
+        color: white;
+    }
+    
+    #Lena {
+        border-radius: 10%;
+        weight: 302;
+        height: 403;
+    }
+    
+    #Kowalik {
+        border-radius: 10%;
+        weight: 300;
+        height: 250;
+    }
+    
+    #Janek {
+        border-radius: 10%;
+        weight: 500;
+        height: 400;
+    }
+    
+    #Iga {
+        border-radius: 10%;
+        weight: 500;
+        height: 400;
+    }
